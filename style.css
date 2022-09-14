@@ -1,0 +1,83 @@
+body
+{
+  background-color:aqua;
+}
+h1
+{
+  font-family:'Metamorphous',Cursive;
+  text-align:center;
+  color:#FFF5EE;
+  text-shadow: 0 0 3px #B0E0E6, 0 0   5px #B0E0E6;
+  font-size:60px;
+}
+p
+{
+  text-align:center;
+  font-size:22px;
+ font-family: 'cursive', cursive;
+  color:#FFE4E1;
+  text-shadow: 0 0 1px ##FFE4E1, 0 0   1px #FFF5EE;
+}
+#main
+{
+  background-color:#000116;
+  margin:30px;
+  border-radius:40px;
+}
+#image
+{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin:auto;
+}
+#img-div
+{
+  background: aqua;
+  padding: 20px;
+  margin: 140px;
+  border-radius:30px;
+}
+#img-caption
+{
+  margin: 25px 0 5px 0;
+  text-align:center;
+  color:#000116;
+}
+#tribute-info
+{
+  color:#7FFFD4;
+  font-size:20px;
+}
+#life
+{
+  text-align:left;
+  font-size:30px;
+ font-family: 'cursive', cursive;
+  color:#FFE4E1;
+  text-shadow: 0 0 1px ##FFE4E1, 0    0 1px #FFF5EE;
+  padding:7px;
+}
+#namearjuna  
+{
+  text-align:left;
+  font-size:30px;
+ font-family: 'cursive', cursive;
+  color:#FFE4E1;
+  text-shadow: 0 0 1px ##FFE4E1, 0  0 1px #FFF5EE;
+  padding:7px;
+}
+#last
+{
+  text-align:center;
+}
+a:visited 
+{
+  color: #00FF00;
+}
+a:hover {
+  color: yellow;
+}
+a:link {
+  color: hotpink;
+}
